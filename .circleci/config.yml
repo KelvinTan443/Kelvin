@@ -1,0 +1,10 @@
+# string to experiment with: place
+place = "poolhouse"
+
+# Use upper() on place: place_up
+
+
+# Print out place and place_up
+
+
+# Print out the number of o's in place
